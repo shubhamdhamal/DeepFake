@@ -89,3 +89,4 @@ terminado==0.8.3
 
 
 
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
