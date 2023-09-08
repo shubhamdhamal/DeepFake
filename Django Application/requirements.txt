@@ -89,3 +89,4 @@ terminado==0.8.3
 
 
 
+jupyter-server>=2.7.2 # not directly required, pinned by Snyk to avoid a vulnerability
