@@ -2,7 +2,7 @@
 FROM nvidia/cuda
 
 #pull python 3.6.8 docker image
-FROM python:3.6.8
+FROM python:3.10.13
 ENV PYTHONDONTWRITEBYTECODE 1
 ENV PYTHONUNBUFFERED 1
 #create a directory to serve static files 
