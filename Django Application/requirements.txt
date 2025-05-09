@@ -15,7 +15,7 @@ colorama==0.4.3
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
-Django==3.0.5
+Django==4.2.21
 dlib==19.19.0
 docutils==0.15.2
 entrypoints==0.3
@@ -89,3 +89,4 @@ terminado==0.8.3
 
 
 
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
